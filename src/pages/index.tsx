@@ -13,6 +13,7 @@ export default function Home() {
       </Head>
       <h1 className="text-blue-800">Lets build a awasome portfolio</h1>
       <h2>This is seriously amazing from me</h2>
+      <h2>This is seriously outstanding from me</h2>
     </main>
   );
 }
