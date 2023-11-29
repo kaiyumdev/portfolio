@@ -7,7 +7,7 @@ type Props = {};
 const Hero = (props: Props) => {
   const [text, setText] = useTypewriter({
     words: [
-      "Hi, My name is Abdul Kaiyum Fahim",
+      "Hi, My Name's Abdul Kaiyum Fahim",
       "<Developer/>",
       "<ButLovesToMoreCode/>",
     ],
