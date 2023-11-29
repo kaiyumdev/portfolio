@@ -12,7 +12,6 @@ export default function Home() {
       <Head>
         <title>Abdul Kaiyum Fahim</title>
       </Head>
-      {/*Header */}
       <Header></Header>
     </div>
   );
