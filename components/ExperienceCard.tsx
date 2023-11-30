@@ -47,11 +47,11 @@ const ExperienceCard = (props: Props) => {
           Started work... - Ended...
         </p>
         <ul className="list-disc space-y-4 ml-5 text-lg">
-          <li>Summary Points</li>
-          <li>Summary Points</li>
-          <li>Summary Points</li>
-          <li>Summary Points</li>
-          <li>Summary Points</li>
+          <li>Summary Points Summary Points</li>
+          <li>Summary Points Summary Points</li>
+          <li>Summary Points Summary Points</li>
+          <li>Summary Points Summary Points</li>
+          <li>Summary Points Summary Points</li>
         </ul>
       </div>
     </article>
